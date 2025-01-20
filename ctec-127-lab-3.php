@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Your style sheet -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Lab No. 3 - 2024</title>
+    <title>Lab No. 3 - 2025 🍕</title>
 </head>
 
 <body>
