@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Your style sheet -->
     <link rel="stylesheet" href="css/style.css">
-    <title>Lab No. 3 - 2025 🍕</title>
+    <title>Lab No. 3 - 2026 🍕🦆</title>
 </head>
 
 <body>
@@ -18,7 +18,7 @@
         <main>
             <div class="row mt-5">
                 <div class="mx-auto col-md-6">
-                    <h1 class="fw-bold text-center">CTEC 127 - Lab 3 (2024)</h1>
+                    <h1 class="fw-bold text-center">CTEC 127 - Lab 3 (2026)</h1>
                     <h2 class="text-center">YOUR NAME GOES HERE</h2>
                     <div class="alert alert-warning my-3 shadow" role="alert">
                         <strong>PLEASE NOTE:</strong> You must enter information for all of the fields
